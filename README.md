@@ -20,18 +20,9 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 ## 📷 Previews
 
 <p align="center">
-<img src="previews/preview1.jpeg" alt="drawing" width="270px" />
-<img src="previews/preview2.jpeg" alt="drawing" width="270px" />
+<img src="previews/preview1.png" alt="drawing" width="270px" />
+<img src="previews/preview2.png" alt="drawing" width="270px" />
 </p>
-
-## 🛠 Tech Stack & Open Source Libraries
-- Minimum SDK level 32.
-- 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
-- Jetpack
- - Compose: Android’s modern toolkit for building native UI.
- - ViewModel: UI related data holder and lifecycle aware.
- - App Startup: Provides a straightforward, performant way to initialize components at application startup.
-
 
 # 🌍 GraphQLCountry_App
 
@@ -56,10 +47,13 @@ A **Kotlin Multiplatform Mobile (KMM)** application that displays a list of coun
 
 [Google's official architecture guidance](https://developer.android.com/topic/architecture).
 
-### UI Layer
+---
+
+## 🛠 UI Layer
 
 The UI Layer consists of UI elements like buttons, menus, tabs that could interact with users and [ViewModel](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-viewmodel.html) that holds app states and restores data when configuration changes.
 
+---
 
 ## 🗂️ Project Structure
 
