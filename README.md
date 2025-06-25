@@ -24,7 +24,7 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 <img src="previews/preview2.png" alt="drawing" width="270px" />
 </p>
 
-# 🌍 GraphQLCountry_App
+# 🌍 GraphQL_App
 
 A **Kotlin Multiplatform Mobile (KMM)** application that displays a list of countries using **GraphQL**. Designed to run on both **Android** and **iOS**, this project adopts a modular and scalable architecture for modern mobile development.
 
